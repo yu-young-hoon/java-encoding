@@ -1,0 +1,1 @@
+http://wiki.simuruk.com/index.php?title=charset_encoding
